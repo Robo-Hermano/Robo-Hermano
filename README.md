@@ -1,1 +1,1 @@
-I do stuff; I might put more here when older.
+Bank for my coding projects
