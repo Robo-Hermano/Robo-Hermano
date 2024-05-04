@@ -1,1 +1,1 @@
-Bank for my coding projects
+just a coding enthusiast building a portfolio
