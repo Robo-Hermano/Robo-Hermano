@@ -1,1 +1,1 @@
-just a coding enthusiast building a portfolio
+portfolio for my coding projects
